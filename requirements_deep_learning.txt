@@ -1,0 +1,9 @@
+# Additional optional dependencies for the deep learning section
+# Keep your existing project requirements and add these if needed.
+
+tensorflow>=2.15
+torch
+transformers
+datasets
+accelerate
+evaluate
