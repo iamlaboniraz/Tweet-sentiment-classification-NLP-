@@ -1,2 +1,5 @@
 .ipynb_checkpoints/
 __pycache__/
+transformer_runs/
+*.safetensors
+optimizer.pt
